@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "dm_hard_eight",
+  "versions": [
+    {
+      "commit": "9e58b6f01d14d874bff16e8f9a2bb2b81c0f7b8d",
+      "tag": "",
+      "parsed_at": "2026-11-06T17:43:47.259435+00:00"
+    }
+  ]
+}
