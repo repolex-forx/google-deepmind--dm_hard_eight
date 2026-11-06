@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/dm_hard_eight/commit/9e58b6f01d14d874bff16e8f9a2bb2b81c0f7b8d",
       "git:hexsha": "9e58b6f01d14d874bff16e8f9a2bb2b81c0f7b8d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
